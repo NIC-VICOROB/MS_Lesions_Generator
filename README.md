@@ -40,8 +40,8 @@ Magnetic resonance imaging (MRI) synthesis has attracted attention due to its va
 Once these requirements are met, the rest of python libraries may be easily installed using ```pip```:
 
 ```bash
-git clone https://github.com/sergivalverde/nicMSlesions.git
-cd nicMSlesions
+git clone https://github.com/NIC-VICOROB/MS_Lesions_Generator.git
+cd MS_Lesions_Generator
 pip install -r requirements.txt
 ```
 
