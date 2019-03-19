@@ -16,13 +16,7 @@ Magnetic resonance imaging (MRI) synthesis has attracted attention due to its va
   The current version is based on [Keras](https://keras.io), so the
   following softwares are necessary to run the program:
 
-* A decent machine running GNU/Linux or Windows. Deep learning methods
-  are computationally expensive, so at least 8GB of RAM is necessary
-  to train a new model. Although this limitation can be addressed
-  using data generators, at this particular version of nicMSlesions we
-  have avoided this option in order to speed up training, so 16GB is
-  definitely highly recommended. For performing only inference, RAM
-  requirements are more modest.
+* A decent machine running GNU/Linux. Deep learning methods are computationally expensive, so at least 8GB of RAM is necessary to train. Although this limitation can be addressed using data generators. 
 
 * A running [Python](https://www.python.org) environment. We highly recommend using the [Virtualenv](https://virtualenv.pypa.io/en/latest/).
 
